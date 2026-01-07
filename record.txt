@@ -1,7 +1,8 @@
-I am going to use git merge
 this is master modification to record.txt
 master modification push-J to record.txt
 master modification push-K to record.txt
 feature-rebase modification push-H to record.txt
 feature-rebase modification push-I to record.txt
 feature-rebase modification push-L to record.txt
+feature-rebase modification push-M to record.txt
+feature-rebase modification push-N to record.txt
