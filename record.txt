@@ -1,2 +1,3 @@
 I am going to use git merge
 this is master modification to record.txt
+master modification push-J to record.txt
