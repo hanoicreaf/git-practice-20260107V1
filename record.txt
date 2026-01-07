@@ -4,3 +4,4 @@ master modification push-J to record.txt
 master modification push-K to record.txt
 master modification push-Q to record.txt
 master modification push-S to record.txt
+this is a test for git restore
