@@ -5,3 +5,4 @@ master modification push-K to record.txt
 master modification push-Q to record.txt
 master modification push-S to record.txt
 this is a test for git restore
+this is 1st test for git commit --amend

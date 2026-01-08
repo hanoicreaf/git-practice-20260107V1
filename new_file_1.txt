@@ -1,1 +1,2 @@
 this is a another new file
+git commit --amend record
